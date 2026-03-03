@@ -12,7 +12,6 @@ It also includes:
 - JSON Web Token (JWT) authentication  
 - Joi schema validation  
 
-This project reflects both my backend learning journey and my experience teaching students how to structure and secure a Node.js API as part of a collaborative educational initiative.
 
 ## Tech Stack
 
